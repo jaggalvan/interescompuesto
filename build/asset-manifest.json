@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/interescompuesto/build/static/css/main.a5b0e245.css",
+    "main.js": "/interescompuesto/build/static/js/main.d01f8cb2.js",
+    "static/js/453.eb89b59b.chunk.js": "/interescompuesto/build/static/js/453.eb89b59b.chunk.js",
+    "index.html": "/interescompuesto/build/index.html",
+    "main.a5b0e245.css.map": "/interescompuesto/build/static/css/main.a5b0e245.css.map",
+    "main.d01f8cb2.js.map": "/interescompuesto/build/static/js/main.d01f8cb2.js.map",
+    "453.eb89b59b.chunk.js.map": "/interescompuesto/build/static/js/453.eb89b59b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b0e245.css",
+    "static/js/main.d01f8cb2.js"
+  ]
+}
